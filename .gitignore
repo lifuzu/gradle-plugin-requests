@@ -1,0 +1,7 @@
+consumer/.gradle/
+consumer/.idea/
+plugin/.gradle/
+plugin/.idea/
+plugin/build/
+plugin/local.properties
+plugin/submodule.iml
